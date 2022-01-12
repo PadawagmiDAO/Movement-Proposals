@@ -2,7 +2,7 @@
 name: Change Request
 about: Request a change or update for your Govrn Model
 title: ''
-labels: movement update
+labels: ''
 assignees: ''
 
 ---
